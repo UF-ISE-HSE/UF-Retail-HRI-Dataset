@@ -1,4 +1,4 @@
-# UF_Retail_HRI_Dataset
+# UF-Retail-HRI-Dataset
 A novel HRI dataset that takes place in a future-oriented Wholesale and Retail Trade environment, where frequent Human-robot interactions are experienced.
 
 Example code to load and visulize robot and human data collected in study by Chen et al. "Human Mobile Robot Interaction with Rich Contextual Information". Under review.
