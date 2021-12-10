@@ -7,7 +7,7 @@ Input 1: human motion capture data of selected trial (e.g., 'P001_006.xlsx').
 
 Input 2: the robot trajectory data extracted from the corresponding ROSBAG file, amcl_pose topic.
 
-Input 3: the map of the experimen site (e.g., 'map_lprc.png').
+Input 3: the map of the experimen site (i.e., 'map_lprc.png').
 
 
 Output 1: a figure (.gif) of human & robot positions 
