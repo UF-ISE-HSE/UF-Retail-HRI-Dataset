@@ -5,6 +5,7 @@ Example code to load and visulize robot and human data collected in study by Che
 
 Input 1: human motion capture data of selected trial (e.g., 'P001_006.xlsx').
 Input 2: the robot trajectory data extracted from the corresponding ROSBAG file, amcl_pose topic.
+Input 3: the map of the experimen site (e.g., 'map_lprc.png').
 
 Output 1: a figure (.gif) of human & robot positions 
 Output 2: a figure (.gif) of 3D human postures
