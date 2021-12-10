@@ -14,3 +14,5 @@ Output 1: a figure (.gif) of human & robot positions
 
 Output 2: a figure (.gif) of 3D human postures
 
+
+![sample image](/Sample_image.png)
